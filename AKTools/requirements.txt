@@ -1,1 +1,3 @@
+libxml2 
+libxslt 
 aktools==0.0.67
